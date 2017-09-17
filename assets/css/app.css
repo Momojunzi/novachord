@@ -1,0 +1,24 @@
+.freqDiv {
+	width:200px;
+	height: 300px;
+	background: yellow;
+	border: solid grey 1px;
+	margin: 20px 10px 20px 10px;
+}
+#freqDiv2 {
+	background: orange;
+}
+
+#freqDiv3 {
+	background: #f47742;
+}
+
+#freqDiv4 {
+	background: red;
+}
+
+.freqDivContainer {
+	width: 100%;
+	display: flex;
+	flex-flow: row;
+}
